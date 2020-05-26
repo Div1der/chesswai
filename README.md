@@ -12,4 +12,6 @@ OSX installation:
 brew install pip3
 pip3 install python-chess torch torchvision flask numpy
 ```
-in terminal ```python3 play.py```
+To play
+
+in terminal: ```python3 play.py```
