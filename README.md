@@ -1,17 +1,17 @@
 # chesswai
 A simple chess game, where you can play against a computer with AI
 
-#Linux installation:
+# Linux installation:
 
 ```
 pip3 install python-chess torch torchvision flask numpy
 ```
 
-#OSX installation:
+# OSX installation:
 ```
 brew install pip3
 pip3 install python-chess torch torchvision flask numpy
 ```
-#To play:
+# To play:
 
 in terminal: ```python3 play.py```
